@@ -21,11 +21,8 @@ Aplicativo em Python com Tkinter que registra valores diários, salva em Excel e
 - [OpenPyXL](https://openpyxl.readthedocs.io/)
 - [Matplotlib](https://matplotlib.org/)
 
----
 
-## 📦 Instalação
-
-Clone este repositório:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+📁 projeto-poupanca
+ ┣ 📜 main.py              # Código principal do app
+ ┣ 📜 valores_diarios.xlsx # Planilha gerada automaticamente
+ ┗ 📜 README.md            # Documentação do projeto
